@@ -1,0 +1,3 @@
+rootProject.name = 'djarum_app_cjdns_demo'
+
+include ':app'
